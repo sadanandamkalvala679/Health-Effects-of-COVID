@@ -1,0 +1,3 @@
+Dataset 1 -->> https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
+Dataset 2 -->> https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+Dataset 3 -->> https://www.kaggle.com/datasets/yusufdede/lung-cancer-dataset
